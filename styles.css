@@ -1,0 +1,162 @@
+.body{
+    background-image: url("jonatan-pie-3l3RwQdHRHg-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.navbar{
+    position: fixed;
+    top: -5px;
+    left: -5px;
+    height: 75px;
+    width: 102%;
+    background-color: black;
+    z-index: 10;
+}
+.Home{
+    position: inherit;
+    top: 30px;
+    left: 70%;
+    color: rgb(255, 66, 8);
+    text-decoration: none;
+    font-size: large;
+}
+.Samples{
+    position: inherit;
+    top: 30px;
+    left: 80%;
+    color: white;
+    text-decoration: none;
+    font-size: large;
+}
+.Contact{
+    position: inherit;
+    top: 30px;
+    left: 90%;
+    color: white;
+    text-decoration: none;
+    font-size: large;
+}
+.Logo{
+    position: inherit;
+    top: 10px;
+    left: 5%;
+    color: white;
+    text-decoration: none;
+    font-size: larger;
+}
+.container{
+    position: absolute;
+    top: 0px;
+    left: -130px;
+}
+.topline{
+    position: absolute;
+    top: 160px;
+    background-color: white;
+    width: 70px;
+    height: 5px;
+    left: 300px;
+}
+.Name{
+    position: absolute;
+    top: 180px;
+    color: white;
+    left: 300px;
+    text-decoration: none;
+    font-size: 45px;
+}
+.cover1{
+    position: absolute;
+    top: 300px;
+    background-color: rgba(19, 14, 14, 0.699);
+    width: 480px;
+    height: 150px;
+    left: 300px;
+    box-shadow:
+    0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12)
+}
+.cover2{
+    position: absolute;
+    top: 460px;
+    background-color: rgba(19, 14, 14, 0.699);
+    width: 480px;
+    height: 150px;
+    left: 300px;
+    box-shadow:
+    0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12)
+}
+.date1{
+    position: absolute;
+    top: 15px;
+    background-color: rgba(14, 10, 10, 0.671);
+    width: 45px;
+    height: 45px;
+    left: 15px;
+    border: solid 2px white;
+    border-radius: 5px;
+    box-shadow:
+    0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12)
+}
+.date1p{
+    position: absolute;
+    color: white;
+    top: 5px;
+    left: 10px;
+    text-decoration: none;
+    font-size: medium;
+}
+.date2{
+    position: absolute;
+    top: 15px;
+    background-color: rgba(14, 10, 10, 0.671);
+    width: 45px;
+    height: 45px;
+    left: 15px;
+    border: solid 2px white;
+    border-radius: 5px;
+    box-shadow:
+    0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12)
+}
+.date2p{
+    position: absolute;
+    color: white;
+    top: 5px;
+    left: 10px;
+    text-decoration: none;
+    font-size: medium;
+}
+.coverside{
+    position: absolute;
+    top: 300px;
+    background-color: rgba(19, 14, 14, 0.699);
+    width: 480px;
+    height: 480px;
+    left: 800px;
+    box-shadow:
+    0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12)
+}
